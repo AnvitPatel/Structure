@@ -4,7 +4,7 @@ class Demo extends Component {
     render(){
         return(
             <div>
-                {"Demo"} 
+                {"Demo repo"} 
             </div>
           
         )
